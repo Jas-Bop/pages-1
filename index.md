@@ -25,7 +25,7 @@ permalink: /
         define how HTML elements look 
 --->
 <style>
-
+ 
   /*CSS style rules for the id and class of the sprite...
   */
   .sprite {
